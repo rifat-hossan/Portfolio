@@ -70,7 +70,7 @@ export default function Hero() {
 
             <div className="pt-6">
               <motion.a
-                href="https://drive.google.com/file/d/1Cg-Y6CozX9hQTZa34RtRjDpEbKc8JJwV/view?usp=drive_link"
+                href="https://drive.google.com/file/d/1W0YsmcOjjSDcd84Xq_min637Hl9oXAmo/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.05 }}
