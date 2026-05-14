@@ -119,7 +119,7 @@ export default function Hero() {
             {/* Image Container */}
             <div className="relative w-[78%] h-[78%] rounded-full overflow-hidden border-4 border-cyan-400/40 shadow-[0_0_40px_rgba(34,211,238,0.25)] bg-[#0f172a]">
               <img
-                src="https://www.figma.com/api/mcp/asset/ed4d3bcd-d925-4ad6-be13-849ab9d9ddfd"
+                src="/hero-image.jpeg"
                 alt="MD Rifat"
                 className="w-full h-full object-cover"
               />
